@@ -1,0 +1,14 @@
+# Dataset files (downloaded by the notebook from Hugging Face)
+data/
+*.parquet
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
