@@ -61,7 +61,7 @@ To use an existing local copy of the dataset, set the `DATA_DIR` environment var
 
 ## Author
 
-Paulo Gabriel Ribacionka Goes de Araujo, Master's Degree in Applied Computing (PPCA), University of Brasília (UnB).
+Paulo Gabriel Ribacionka Goes de Araujo, University of Brasília (UnB). ORCID: https://orcid.org/0009-0006-6544-8940
 
 ## License
 
