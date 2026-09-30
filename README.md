@@ -2,7 +2,7 @@
 
 A data mining study (CRISP-DM) on OpenTelemetry GenAI telemetry.
 
-This repository contains the reproducible notebook for the paper *"Characterizing LLM-Based Agent Executions by Task Outcome: A Data Mining Study on Telemetry Data"*, developed for the Data Mining course of the Graduate Program in Applied Computing (PPCA) at the University of Brasília (UnB).
+This repository contains the reproducible notebook for the paper *"Characterizing LLM-Based Agent Executions by Task Outcome: A Data Mining Study on Telemetry Data"*, developed for the Data Mining course of the Master's Program in Applied Computing (PPCA) at the University of Brasília (UnB).
 
 > **Paper:** link to be added.
 
@@ -61,7 +61,7 @@ To use an existing local copy of the dataset, set the `DATA_DIR` environment var
 
 ## Author
 
-Paulo Gabriel Ribacionka Goes de Araujo, Masters Degree in Applied Computing (PPCA), University of Brasília (UnB).
+Paulo Gabriel Ribacionka Goes de Araujo, Master's Degree in Applied Computing (PPCA), University of Brasília (UnB).
 
 ## License
 
